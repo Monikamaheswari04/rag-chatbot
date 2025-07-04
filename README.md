@@ -111,15 +111,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
 
-## 👤 Team & Contact
-**Name**: Monika A. D  
-**Program**: B.Tech, Artificial Intelligence and Data Science  
-**Institution**: [Your College Name Here]  
-**Email**: monika@example.com  *(replace with your real ID)*
-
----
 
 ## ✅ Evaluation Checklist
 | Task Requirement                   | Status         |
